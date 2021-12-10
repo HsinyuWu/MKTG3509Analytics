@@ -1,5 +1,5 @@
 # MKTG3509 Customer Data Analytics Portfolio
-This is the portfolio of all assignments that completed in MKTG3509 Customer Data Analytics. 
+This is the portfolio of assignments that completed in MKTG3509 Customer Data Analytics. 
 
 ## My Résumé
 - [Résumé](https://colab.research.google.com/drive/1ltcJESgB3F6JRTjcAYQMrmE8iEWNFfr1)
